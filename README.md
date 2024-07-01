@@ -12,7 +12,7 @@ This project is an Online Code Compiler that supports multiple programming langu
 ## Setup
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/online-code-compiler.git
+    git clone https://github.com/dipesh6264/online-code-compiler.git
     ```
 2. Navigate to the project directory:
     ```sh
@@ -24,7 +24,7 @@ This project is an Online Code Compiler that supports multiple programming langu
     ```
 4. Start the server:
     ```sh
-    npm start
+    node app.js
     ```
 
 ## Modules
