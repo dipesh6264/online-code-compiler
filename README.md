@@ -35,6 +35,8 @@ This project is an Online Code Compiler that supports multiple programming langu
 
 
 ## Demonstration
+![image](https://github.com/dipesh6264/online-code-compiler/assets/134261406/27d2fa0d-699e-4eac-8b02-89818617c0a5)
+
 The following steps demonstrate how to use the Online Code Compiler:
 1. Select the programming language from the dropdown menu.
 2. Enter your code in the provided textarea.
