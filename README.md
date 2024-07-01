@@ -1,6 +1,6 @@
 # Online Code Compiler (With Real-time code collaboration)
 
-This project is an Online Code Compiler that supports multiple programming languages, including C, C++, Java, and Python. It allows users to write, compile, and execute code directly in the browser. Additionally, it includes a chat feature for real-time communication among users and displays active users.
+This project is an Online Code Compiler that supports multiple programming languages, including C, C++, Java, and Python. It allows users to write, compile, and execute code directly in the browser. Additionally, it includes a chat feature for real-time communication among users and displays active users. One of the standout features is real-time code collaboration, enabling multiple users to work on the same code simultaneously.
 
 ## Features
 - Real-time code collaboration
@@ -28,9 +28,11 @@ This project is an Online Code Compiler that supports multiple programming langu
     ```
 
 ## Modules
+- **Collaboration Module:** Facilitates real-time code collaboration among users
 - **Compiler Module:** Handles code compilation and execution using a server-side API.
 - **Chat Module:** Enables real-time chat functionality using WebSockets.
 - **User Module:** Manages active users and their interactions.
+
 
 ## Demonstration
 The following steps demonstrate how to use the Online Code Compiler:
@@ -41,3 +43,4 @@ The following steps demonstrate how to use the Online Code Compiler:
 5. The output will be displayed in the "Output" section.
 6. To use the chat feature, type your message in the chat input box and click "Send".
 7. Active users are displayed in the "Active Users" section.
+8. For real-time collaboration, share the link with other users, and they can join to edit the code simultaneously.
